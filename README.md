@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @alihamzaranjha007
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning python, AI, android.
+- ✅I have worked on dart, java, python, PHP, Javascript 
+- 🌱 I’m currently learning advancement in web technologies and mobile app technologies.
