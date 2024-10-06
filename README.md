@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @alihamzaranjha007
 - 👀 I’m interested in coding.
-- ✅I have worked on dart, java, python, PHP, Javascript 
-- 🌱 I’m currently learning advancement in web technologies and mobile app technologies.
+- ✅I have worked on HTML, CSS, PHP, Javascript, WordPress. 
+- 🌱 I’m currently learning Laravel and React.
